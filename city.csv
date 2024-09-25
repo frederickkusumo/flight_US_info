@@ -1,0 +1,361 @@
+id,city,states_id
+1,Fort Lauderdale,1
+2,Las Vegas,2
+3,Seattle,3
+4,New York,4
+5,Los Angeles,5
+6,Cordova,6
+7,Washington,7
+8,Chicago,8
+9,Reno,2
+10,Boston,9
+11,Denver,10
+12,Dallas/Fort Worth,11
+13,Charlotte,12
+14,Fresno,5
+15,Philadelphia,13
+16,Bloomington/Normal,8
+17,Phoenix,14
+18,Norfolk,15
+19,Pasco/Kennewick/Richland,3
+20,Nashville,16
+21,Fargo,17
+22,Baltimore,18
+23,Rapid City,19
+24,Victoria,11
+25,Boise,20
+26,Evansville,21
+27,Detroit,22
+28,Atlanta,23
+29,Honolulu,24
+30,Raleigh/Durham,12
+31,Portland,25
+32,Hartford,26
+33,Charleston,27
+34,Prescott,14
+35,Columbus,28
+36,St. George,29
+37,Austin,11
+38,Indianapolis,21
+39,Houston,11
+40,Colorado Springs,10
+41,San Jose,5
+42,Albany,4
+43,San Francisco,5
+44,Salt Lake City,29
+45,Rochester,4
+46,Orlando,1
+47,Kansas City,30
+48,Minneapolis,31
+49,Dallas,11
+50,Albuquerque,32
+51,Harlingen/San Benito,11
+52,Tulsa,33
+53,Richmond,15
+54,Savannah,23
+55,Tampa,1
+56,West Palm Beach/Palm Beach,1
+57,Allentown/Bethlehem/Easton,13
+58,Fort Myers,1
+59,Gulfport/Biloxi,34
+60,Sanford,1
+61,Spokane,3
+62,Jamestown,17
+63,Milwaukee,35
+64,Burbank,5
+65,Santa Rosa,5
+66,Kona,24
+67,Juneau,6
+68,Miami,1
+69,Grand Rapids,22
+70,Dayton,28
+71,Sitka,6
+72,San Diego,5
+73,Harrisburg,13
+74,Moline,8
+75,Oakland,5
+76,North Platte,36
+77,Columbia,27
+78,San Juan,37
+79,Lihue,24
+80,Jacksonville,1
+81,Newark,38
+82,Fayetteville,39
+83,Scottsbluff,36
+84,Des Moines,40
+85,Cedar Rapids/Iowa City,40
+86,Cleveland,28
+87,St. Louis,30
+88,Oklahoma City,33
+89,Palm Springs,5
+90,Madison,35
+91,Memphis,16
+92,Sacramento,5
+93,Ontario,5
+94,Kotzebue,6
+95,Vernal,29
+96,Long Beach,5
+97,San Antonio,11
+98,Charlotte Amalie,41
+99,Greer,27
+100,Bristol/Johnson City/Kingsport,16
+101,Missoula,42
+102,Atlantic City,38
+103,Charleston/Dunbar,43
+104,Brunswick,23
+105,El Paso,11
+106,Twin Falls,20
+107,Cincinnati,28
+108,Pittsburgh,13
+109,Monterey,5
+110,New Orleans,44
+111,Traverse City,22
+112,Pellston,22
+113,Bend/Redmond,25
+114,Appleton,35
+115,Kahului,24
+116,Brownsville,11
+117,Aspen,10
+118,Wichita,45
+119,Killeen,11
+120,Fort Wayne,21
+121,Omaha,36
+122,Burlington,46
+123,Jackson,47
+124,Providence,48
+125,International Falls,31
+126,Idaho Falls,20
+127,Rochester,31
+128,Sioux Falls,19
+129,Minot,17
+130,Medford,25
+131,Pensacola,1
+132,Tallahassee,1
+133,Louisville,49
+134,Knoxville,16
+135,Cody,47
+136,Greensboro/High Point,12
+137,Anchorage,6
+138,Portland,50
+139,Fairbanks,6
+140,Asheville,12
+141,Santa Ana,5
+142,Montrose/Delta,10
+143,New Bern/Morehead/Beaufort,12
+144,Panama City,1
+145,Grand Forks,17
+146,Tucson,14
+147,Eugene,25
+148,Ogdensburg,4
+149,Huntsville,51
+150,Springfield,30
+151,Buffalo,4
+152,Marquette,22
+153,Durango,10
+154,Amarillo,11
+155,Myrtle Beach,27
+156,Key West,1
+157,Wilmington,12
+158,Lubbock,11
+159,Shreveport,44
+160,Yakutat,6
+161,Laramie,47
+162,Billings,42
+163,Guam,52
+164,Elmira/Corning,4
+165,Helena,42
+166,Nome,6
+167,Santa Barbara,5
+168,Birmingham,51
+169,Akron,28
+170,Laredo,11
+171,Arcata/Eureka,5
+172,South Bend,21
+173,Fort Leonard Wood,30
+174,Scranton/Wilkes-Barre,13
+175,Sarasota/Bradenton,1
+176,Roanoke,15
+177,Great Falls,42
+178,St. Petersburg,1
+179,Lexington,49
+180,Hancock/Houghton,22
+181,Syracuse,4
+182,White Plains,4
+183,Clarksburg/Fairmont,43
+184,Melbourne,1
+185,Santa Fe,32
+186,Watertown,19
+187,Cedar City,29
+188,Aguadilla,37
+189,Plattsburgh,4
+190,Abilene,11
+191,Gunnison,10
+192,Trenton,38
+193,Lincoln,36
+194,Jacksonville/Camp Lejeune,12
+195,Midland/Odessa,11
+196,Valparaiso,1
+197,San Luis Obispo,5
+198,Corpus Christi,11
+199,Decatur,8
+200,Bozeman,42
+201,Lake Charles,44
+202,Pullman,3
+203,Hilton Head,27
+204,Flagstaff,14
+205,Augusta,23
+206,Eagle,10
+207,Islip,4
+208,Bakersfield,5
+209,Gainesville,1
+210,Bismarck/Mandan,17
+211,Hilo,24
+212,Dillingham,6
+213,Manchester,53
+214,Bangor,50
+215,Waco,11
+216,Lafayette,44
+217,Montgomery,51
+218,Aberdeen,19
+219,Fayetteville,12
+220,Daytona Beach,1
+221,Tyler,11
+222,Deadhorse,6
+223,Little Rock,39
+224,Mission/McAllen/Edinburg,11
+225,Kalispell,42
+226,Gillette,47
+227,Lansing,22
+228,Jackson/Vicksburg,34
+229,Concord,12
+230,Columbus,34
+231,Lewisburg,43
+232,Alexandria,44
+233,Lawton/Fort Sill,33
+234,Salina,45
+235,Flint,22
+236,Mobile,51
+237,Dubuque,40
+238,Kalamazoo,22
+239,Newport News/Williamsburg,15
+240,Everett,3
+241,Staunton,15
+242,Columbia,30
+243,La Crosse,35
+244,Chattanooga,16
+245,Punta Gorda,1
+246,Mason City,40
+247,Kearney,36
+248,Baton Rouge,44
+249,Bellingham,3
+250,Pocatello,20
+251,Mosinee,35
+252,Grand Junction,10
+253,Roswell,32
+254,Springfield,8
+255,West Yellowstone,42
+256,Beaumont/Port Arthur,11
+257,Yakima,3
+258,Champaign/Urbana,8
+259,Martha's Vineyard,9
+260,Pierre,19
+261,Rock Springs,47
+262,Belleville,8
+263,Duluth,31
+264,College Station/Bryan,11
+265,Saginaw/Bay City/Midland,22
+266,Riverton/Lander,47
+267,Casper,47
+268,Green Bay,35
+269,Sioux City,40
+270,King Salmon,6
+271,Rockford,8
+272,Charlottesville,15
+273,Ketchikan,6
+274,Wrangell,6
+275,Hayden,10
+276,Sault Ste. Marie,22
+277,Erie,13
+278,Monroe,44
+279,Ashland,43
+280,Rhinelander,35
+281,Toledo,28
+282,Valdosta,23
+283,Peoria,8
+284,Columbus,23
+285,Nantucket,9
+286,Mammoth Lakes,5
+287,Alpena,22
+288,Williston,17
+289,San Angelo,11
+290,Elko,2
+291,State College,13
+292,Redding,5
+293,Stillwater,33
+294,Dickinson,17
+295,North Bend/Coos Bay,25
+296,Devils Lake,17
+297,Wichita Falls,11
+298,Joplin,30
+299,Hays,45
+300,Barrow,6
+301,Saipan,52
+302,Greenville,12
+303,Manhattan/Ft. Riley,45
+304,Dothan,51
+305,Provo,29
+306,Bethel,6
+307,Sun Valley/Hailey/Ketchum,20
+308,CONCORD,12
+309,Moab,29
+310,Worcester,9
+311,Texarkana,39
+312,Hibbing,31
+313,Yuma,14
+314,Christiansted,41
+315,Muskegon,22
+316,Eau Claire,35
+317,Newburgh/Poughkeepsie,4
+318,Ithaca/Cortland,4
+319,Hattiesburg/Laurel,34
+320,Albany,23
+321,Cheyenne,47
+322,Hobbs,32
+323,Fort Smith,39
+324,Hyannis,9
+325,Longview,11
+326,Lewiston,20
+327,Butte,42
+328,Latrobe,13
+329,Pueblo,10
+330,Petersburg,6
+331,Walla Walla,3
+332,Binghamton,4
+333,Niagara Falls,4
+334,Cape Girardeau,30
+335,Escanaba,22
+336,Ponce,37
+337,Garden City,45
+338,Liberal,45
+339,Lynchburg,15
+340,Meridian,34
+341,Grand Island,36
+342,Fort Dodge,40
+343,Bemidji,31
+344,Hagerstown,18
+345,Brainerd,31
+346,Sheridan,47
+347,Alamosa,10
+348,Quincy,8
+349,Branson,30
+350,Paducah,49
+351,Wenatchee,3
+352,Johnstown,13
+353,Iron Mountain/Kingsfd,22
+354,Gustavus,6
+355,Waterloo,40
+356,Stockton,5
+357,New Haven,26
+358,Santa Maria,5
+359,Del Rio,11
+360,Dodge City,45
